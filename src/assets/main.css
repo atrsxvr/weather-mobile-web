@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.weather-status{
+  font-size: 44px;
+  writing-mode: vertical-rl;
+}
+
+
+
+.degree{
+  font-size: 90px;
+}
