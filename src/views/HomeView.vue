@@ -100,7 +100,7 @@
           <div>
             <p class="mb-0 text-muted">Feels like</p>
             <p class="fw-semibold">
-              {{ weather.main.feels_like.toFixed() }}#8451
+              {{ weather.main.feels_like.toFixed() }}&#8451
             </p>
           </div>
         </div>
